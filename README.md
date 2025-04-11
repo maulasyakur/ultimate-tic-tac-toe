@@ -29,5 +29,5 @@ The position you play in your current board determines the next board your oppon
 
 2. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ultimate-tic-tac-toe.git
+   git clone https://github.com/maulasyakur/ultimate-tic-tac-toe
    cd ultimate-tic-tac-toe
