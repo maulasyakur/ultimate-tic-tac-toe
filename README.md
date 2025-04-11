@@ -24,10 +24,10 @@ The position you play in your current board determines the next board your oppon
 ## 🚀 Getting Started
 
 1. **Play the Live Game**  
-   👉 [Open Ultimate Tic Tac Toe](https://github.com/maulasyakur/ultimate-tic-tac-toe.git)  
+   👉 [Open Ultimate Tic Tac Toe](https://maulasyakur.github.io/ultimate-tic-tac-toe/)  
    *(Replace with your actual live link)*
 
 2. **Clone the repository**
    ```bash
-   git clone https://github.com/maulasyakur/ultimate-tic-tac-toe
+   git clone https://github.com/maulasyakur/ultimate-tic-tac-toe.git
    cd ultimate-tic-tac-toe
